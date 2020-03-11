@@ -25,7 +25,7 @@ RTC_DS1307 rtc;
 File dataFile;
 
 // Defining global variables
-float dailyPressurePa = 100740;
+float dailyPressurePa = 100220;
 float humi;
 float pres;
 float temp;
